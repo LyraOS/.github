@@ -1,8 +1,7 @@
-<h1 align="center">Lyra OS</h1>
-
 <p align="center">
-  <strong>Clean • Stable • Fast</strong><br/>
-  AOSP-based custom ROM with the Lyra UI experience.
+  <b style="font-size:30px;">Lyra OS</b><br/>
+  Clean • Stable • Fast  
+  <br/>AOSP-based custom ROM with the Lyra UI experience.
 </p>
 
 ---
