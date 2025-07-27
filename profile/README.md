@@ -7,14 +7,14 @@
 
 ---
 
-## Overview
+**Overview**
 
 Lyra OS is a custom ROM based on the **Android Open Source Project (AOSP)**, built to provide a refined **Lyra UI** experience.  
 It focuses on being **lightweight, reliable, and well-optimized** for everyday use, while introducing subtle enhancements over stock Android.
 
 ---
 
-## Key Principles
+**Key Principles**
 
 - **Lyra UI** – A distinct visual identity with thoughtful design changes  
 - **Stability** – Reliable performance suitable for daily drivers  
@@ -23,15 +23,13 @@ It focuses on being **lightweight, reliable, and well-optimized** for everyday u
 
 ---
 
-## Source Repositories
+**Source Repositories**
 
 - **Device Sources:** [LyraOS-Devices](https://github.com/LyraOS-Devices)
 
 ---
 
-## Community
-
-Stay informed and engage with other users and developers:
+**Community**
 
 - **Updates Channel:** [t.me/LyraOS](https://t.me/LyraOS)  
 - **Community Chat:** [t.me/LyraOSCommunity](https://t.me/LyraOSCommunity)
