@@ -1,38 +1,48 @@
 <p align="center">
-  <b style="font-size:30px;">Lyra OS</b><br/>
-  Clean • Stable • Fast  
-  <br/>AOSP-based custom ROM with the Lyra UI experience.
+  <b style="font-size:36px; letter-spacing:1px;">Lyra OS</b><br/>
+  <span style="font-size:16px; color:gray;">Clean • Stable • Fast</span>
 </p>
+
+---
+
+<div align="center">
+
+**Minimal. Reliable. Up to Date.**  
+A lightweight custom ROM designed for smooth daily use.
+
+</div>
 
 ---
 
 **Overview**
 
-Lyra OS is a custom ROM based on the **Android Open Source Project (AOSP)**, built to provide a refined **Lyra UI** experience.  
-It focuses on being **lightweight, reliable, and well-optimized** for everyday use, while introducing subtle enhancements over stock Android.
+Lyra OS is a custom Android ROM focused on **stability, performance, and simplicity**.  
+It maintains a **stock-like feel** while adding subtle refinements to improve the everyday experience without introducing unnecessary features or clutter.
 
 ---
 
-**Key Principles**
+**Core Principles**
 
-- **Lyra UI** – A distinct visual identity with thoughtful design changes  
-- **Stability** – Reliable performance suitable for daily drivers  
-- **Lightweight Enhancements** – Adds only essential improvements without bloat  
-- **Regular Maintenance** – Security patches and performance updates delivered consistently  
+> - **Stability** – Built for consistent and reliable daily performance  
+> - **Lightweight** – Minimal changes for maximum speed and efficiency  
+> - **Up to Date** – Regular security patches and ongoing maintenance  
+> - **Simplicity** – Clean and bloat-free by design  
 
 ---
 
 **Source Repositories**
 
-- **Device Sources:** [LyraOS-Devices](https://github.com/LyraOS-Devices)
+- [Device Sources](https://github.com/LyraOS-Devices)
 
 ---
 
 **Community**
 
-- **Updates Channel:** [t.me/LyraOS](https://t.me/LyraOS)  
-- **Community Chat:** [t.me/LyraOSCommunity](https://t.me/LyraOSCommunity)
+- **Announcements:** [t.me/LyraOS](https://t.me/LyraOS)  
+- **Discussion:** [t.me/LyraOSCommunity](https://t.me/LyraOSCommunity)
 
 ---
 
-<p align="center"><sub>Based on @LineageOS</sub></p>
+<p align="center">
+  <sub style="color:gray;">Based on LineageOS</sub>
+</p>
