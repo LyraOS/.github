@@ -32,3 +32,7 @@ It focuses on being **lightweight, reliable, and well-optimized** for everyday u
 
 - **Updates Channel:** [t.me/LyraOS](https://t.me/LyraOS)  
 - **Community Chat:** [t.me/LyraOSCommunity](https://t.me/LyraOSCommunity)
+
+---
+
+<p align="center"><sub>Based on @LineageOS</sub></p>
